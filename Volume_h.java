@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class volume_h {
+public class Volume_h {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
