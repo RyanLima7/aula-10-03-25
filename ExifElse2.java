@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class exifelse2 {
+public class ExifElse2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
