@@ -2,7 +2,7 @@ package src;
 
 import java.util.Scanner;
 
-public class quadro {
+public class ExQuadro {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
