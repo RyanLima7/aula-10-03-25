@@ -2,9 +2,9 @@ package src;
 
 import java.util.Scanner;
 
-public class ifelse {
+public class ExifElse1 {
 
-	public static void main(String[] args) {
+	public static void main(St1ring[] args) {
 		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
